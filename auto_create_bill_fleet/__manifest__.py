@@ -29,6 +29,7 @@
     'data': [
         'views/fleet_vehicle_log_services.xml',
     ],
+    'images': ['static/description/main_screenshot.png'],
     'installable': True,
     'application': False,
     'auto_install': False,
